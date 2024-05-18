@@ -27,8 +27,7 @@ To get started with the Weather App, follow these steps:
 2. **Run on VS Code:**
 
 ## Screenshots
-![App Screenshot](Assets/cloud.png)
-
+![App Screenshot](HomeUi.jpeg)
 ## Contact
 If you have any questions, feel free to reach out:
 
